@@ -1,0 +1,12 @@
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\bin\Debug\net6.0\Administration.Core.deps.json
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\bin\Debug\net6.0\Administration.Core.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\bin\Debug\net6.0\Administration.Core.pdb
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.csproj.AssemblyReference.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.AssemblyInfo.cs
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\refint\Administration.Core.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\Administration.Core.pdb
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 3°SEMANA\DevInHouse---C-.Net---Semana3\Administration\Administration.Core\obj\Debug\net6.0\ref\Administration.Core.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdministrationConsole/1.0.0": {
+        "dependencies": {
+          "Administration.Core": "1.0.0"
+        },
+        "runtime": {
+          "AdministrationConsole.dll": {}
+        }
+      },
+      "Administration.Core/1.0.0": {
+        "runtime": {
+          "Administration.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdministrationConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Administration.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
